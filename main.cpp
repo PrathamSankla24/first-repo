@@ -1,2 +1,3 @@
 
-int MainFunction() {}
+int MAINFUNCTION() {}
+
