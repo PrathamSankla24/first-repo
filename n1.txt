@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 commit this change
+=======
+stash this change
+>>>>>>> Stashed changes
